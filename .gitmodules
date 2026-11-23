@@ -1,0 +1,9 @@
+[submodule "engine"]
+	path = engine
+	url = https://github.com/editnovel/engine.git
+[submodule "editnovel"]
+	path = editnovel
+	url = https://github.com/editnovel/editnovel.git
+[submodule "portal"]
+	path = portal
+	url = https://github.com/editnovel/portal.git

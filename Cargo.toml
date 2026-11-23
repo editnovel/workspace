@@ -1,0 +1,10 @@
+[workspace]
+resolver = "3"
+members = [
+    "engine",
+    "editnovel",
+    "portal/wasm-crate",
+]
+
+[patch."https://github.com/editnovel/engine"]
+editnovel-engine = { path = "./engine" }
